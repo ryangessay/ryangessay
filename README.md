@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Gessay</h1>
-<h3 align="center">Dedicated to learning Solidity Coding</h3>
+<h3 align="center">Dedicated to learning Solidity Coding in Pursuit of New Career Opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJyYW84NnZzdmk5ZDlnaHlkdmlnYWZvbTcwb3A4Ynphbjl3aTcwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryangessay&label=Profile%20views&color=0e75b6&style=flat" alt="ryangessay" /> </p>
