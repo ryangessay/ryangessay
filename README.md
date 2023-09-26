@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryangessay&label=Profile%20views&color=0e75b6&style=flat" alt="ryangessay" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Git & GitHub**
+- 🌱 I am currently learning **Solidity, Git & GitHub**
 
 - 📫 How to reach me **ryangessay@gmail.com**
 
