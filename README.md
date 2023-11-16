@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryangessay&label=Profile%20views&color=0e75b6&style=flat" alt="ryangessay" /> </p>
 
 - 🌱 I'm currently learning:<br>
-- Solidity, HTML/CSS, JavaScript and Git/Github
+  - Solidity, HTML/CSS, JavaScript and Git/Github
   
 - 🚀 Recently, I've completed a project that involved building a decentralized web application for event registration. This project has allowed me to deepen my expertise in several areas:
   
@@ -15,13 +15,12 @@
   - **Testing**: Conducted both front-end and back-end testing to ensure the reliability of the application.
     
 - 💡 I’m keen on exploring more about blockchain technology and its applications in different sectors.
-- 🤝 I’m open to collaborations on projects involving blockchain, web development, and decentralized applications.
 
 ---
 
 ### Featured Project:  Event Registration DApp
 **Description**: A decentralized application for event registration, using Ethereum blockchain for secure data management. Users can register for events using MetaMask, with their information securely recorded on the blockchain.
-Feel free to check out the repository [here](https://github.com/ryangessay/ERD).
+  - Feel free to check out the repository [here](https://github.com/ryangessay/ERD).
 
 **Technologies Used**:
 - Solidity for Smart Contracts
