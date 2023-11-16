@@ -15,11 +15,12 @@
     
 - 💡 I’m keen on exploring more about blockchain technology and its applications in different sectors.
 - 🤝 I’m open to collaborations on projects involving blockchain, web development, and decentralized applications.
-- 📫 How to reach me: [ryangessay99@gmail.com]
 
 ---
 
-### Featured Project: Event Registration DApp
+### Featured Project:  Event Registration DApp
+Feel free to check out the repository [here](https://github.com/ryangessay/ERD).
+
 **Description**: A decentralized application for event registration, using Ethereum blockchain for secure data management. Users can register for events using MetaMask, with their information securely recorded on the blockchain.
 
 **Technologies Used**:
@@ -28,8 +29,6 @@
 - NodeJS and Web3JS for Back-End
 - Ganache for a personal Ethereum blockchain
 - MetaMask for wallet integration
-
-Feel free to check out the repository [here](https://github.com/ryangessay/ERD).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
