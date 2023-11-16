@@ -6,6 +6,7 @@
 
 - 🌱 I'm currently learning:<br>
   - Solidity, HTML/CSS, JavaScript and Git/Github
+  - Front-End & Back-End Development
   
 - 🚀 Recently, I've completed a project that involved building a decentralized web application for event registration. This project has allowed me to deepen my expertise in several areas:
   
