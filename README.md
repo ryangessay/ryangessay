@@ -18,18 +18,20 @@
 - 💡 I’m keen on exploring more about blockchain technology and its applications in different sectors.
 
 ---
-
-### Featured Project:  Event Registration DApp
-**Description**: A decentralized application for event registration, using Ethereum blockchain for secure data management. Users can register for events using MetaMask, with their information securely recorded on the blockchain.
+### Featured Project: &nbsp;    Event Registration DApp
+- **Description**: A decentralized application for event registration, using Ethereum blockchain for secure data management. Users can register for events using MetaMask, with their information securely recorded on the blockchain.
   - Feel free to check out the repository [here](https://github.com/ryangessay/ERD).
 
-**Technologies Used**:
-- Solidity for Smart Contracts
-- HTML/CSS/JavaScript for Front-End
-- NodeJS and Web3JS for Back-End
-- Ganache for a personal Ethereum blockchain
-- MetaMask for wallet integration
-
+- **Technologies Used**:
+  - Solidity for Smart Contracts
+  - HTML/CSS/JavaScript for Front-End
+  - NodeJS and Web3JS for Back-End
+  - Ganache for a personal Ethereum blockchain
+  - MetaMask for wallet integration
+---
+**Other Projects**:
+- [Blockchain Explorer](https://github.com/ryangessay/Blockchain-Explorer)
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-gessay-378888236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-gessay-378888236" height="30" width="40" /></a>
