@@ -30,7 +30,8 @@
   - MetaMask for wallet integration
 ---
 **Other Projects**:
-- [Blockchain Explorer](https://github.com/ryangessay/Blockchain-Explorer)
+- [GameToken](https://github.com/ryangessay/GameToken) - Creation of a new cryptocurrency and NFTs. Capabilities include: swapping, NFT minting, and a marketplace for trading.
+- [Blockchain Explorer](https://github.com/ryangessay/Blockchain-Explorer) - A simple Ethereum & Polygon blockchain explorer.
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
